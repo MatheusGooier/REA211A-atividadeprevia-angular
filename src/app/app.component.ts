@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Calculadora Angular';
+  title = 'Calculadora Reativa';
 
   public num1:number=0;
   public num2:number=0;
